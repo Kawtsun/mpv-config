@@ -1,0 +1,11 @@
+installer
+doc
+mpv
+script-opts
+scripts
+d3dcompiler_43.dll
+discord-rpc.dll
+*.exe
+*.com
+*.bat
+settings.xml
